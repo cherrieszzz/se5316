@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "aebb0fdaec3f929a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a2c7e8c1ec577f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11e915135fec68de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JDBC相关操作.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2cdc7147d8fc30e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "587b1bbb429d5e55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad9d088c99a1b577",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cad7e74bfe326bdc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2b3bc658b4256182",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e32a31bf63cfe635",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6431faecdbcec51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f8b421108fa5e4c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JDBC相关操作.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "405ec4e683853037",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "JDBC相关操作.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "869b910012cbefe5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e98a99e5f1fab47a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JDBC相关操作.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "11e915135fec68de",
+  "lastOpenFiles": []
+}

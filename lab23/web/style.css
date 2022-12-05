@@ -1,0 +1,35 @@
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50rem;
+}
+
+.container form {
+
+}
+
+.container form label {
+  margin-right: 1rem;
+}
+.container form input {
+  height: 2rem;
+  border-radius: 15px;
+  width: 20rem;
+}
+
+.container form .input-group {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.container form .belowbar {
+  display: flex;
+  justify-content: center;
+}
+
+.container form .belowbar input {
+  width: 5rem;
+}

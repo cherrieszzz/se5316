@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="gb2312"?>
+<web-app>
+    <servlet>
+        <servlet-name>case04zpyForward</servlet-name>
+        <servlet-class>haut.hati.zpy.Case04Servlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>case04zpyForward</servlet-name>
+        <url-pattern>/case04zpyForward</url-pattern>
+    </servlet-mapping>
+
+</web-app>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:web="http://xmlns.jcp.org/xml/ns/javaee">
+
+	<servlet>
+    	<servlet-name>hello</servlet-name>
+    	<servlet-class>haut.hati.lyr.Case01Servlet</servlet-class>
+    	<init-param>
+     		 <param-name>pw</param-name>
+     		 <param-value>02张圃源</param-value>
+    </init-param>
+  </servlet>
+  <servlet-mapping>
+    	<servlet-name>hello</servlet-name>
+    	<url-pattern>/hello</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>case02zpyComputeBill</servlet-name>
+    <servlet-class>haut.hati.lyr.Case02Servlet</servlet-class>
+   </servlet>
+  <servlet-mapping>
+    <servlet-name>case02zpyComputeBill</servlet-name>
+    <url-pattern>/case02zpyComputeBill</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>case02zpyTriangle</servlet-name>
+    <servlet-class>haut.hati.lyr.Case02Servlet1</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>case02zpyTriangle</servlet-name>
+    <url-pattern>/case02servletTriangle</url-pattern>
+  </servlet-mapping>
+  <servlet>
+  	<servlet-name>word</servlet-name>
+  	<servlet-class>haut.hati.lyr.Case03Servlet</servlet-class></servlet>
+  <servlet-mapping>
+  	<servlet-name>word</servlet-name>
+  	<url-pattern>/word</url-pattern></servlet-mapping></web-app>

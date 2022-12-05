@@ -1,0 +1,8 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"%>
+<table cellSpacing="1" cellPadding="1" width="60%" align="center" border="0">
+	<tr valign="bottom">
+	<A href ="case04zpy1name.jsp">信息登记页面</A><br>
+	<A href ="case04zpy2book.jsp">购买图书页面</A><br>
+	<A href ="case04zpy3price.jsp">结账</A><br>
+</tr>
+</table>
